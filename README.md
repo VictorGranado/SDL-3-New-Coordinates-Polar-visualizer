@@ -57,7 +57,7 @@ Examples include:
 
 The curve is rendered in the Cartesian plane, demonstrating how polar equations map into standard \(x,y\) space.
 
-![Alt text]https://github.com/VictorGranado/SDL-3-New-Coordinates-Polar-visualizer/blob/5978af7408d06580418b097e34fde8b0c0ea5011/Screenshot%202026-02-24%20201316.png)
+![Alt text](https://github.com/VictorGranado/SDL-3-New-Coordinates-Polar-visualizer/blob/5978af7408d06580418b097e34fde8b0c0ea5011/Screenshot%202026-02-24%20201316.png)
 
 ---
 
