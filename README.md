@@ -83,6 +83,8 @@ The shaded region is displayed along with:
 This helps explain why the extra **\(r\)** factor appears in polar area integrals.
 
 ![Alt text](https://github.com/VictorGranado/SDL-3-New-Coordinates-Polar-visualizer/blob/5978af7408d06580418b097e34fde8b0c0ea5011/Screenshot%202026-02-24%20201444.png)
+![Alt text](https://github.com/VictorGranado/SDL-3-New-Coordinates-Polar-visualizer/blob/6de5dd7ae96ffeeb19243b11919dc35f1c882328/Screenshot%202026-02-24%20201559.png)
+
 
 ---
 
@@ -96,7 +98,8 @@ L=\int_{\alpha}^{\beta}\sqrt{r(\theta)^2+\left(\frac{dr}{d\theta}\right)^2}\,d\t
 
 The program also compares results with a chord-length approximation in Cartesian coordinates, reinforcing the geometric meaning of arc length.
 
-![Alt text](https://github.com/VictorGranado/SDL-2-Curve-Transform-Curves-and-Parametric-Motion/blob/67a5fc092f2b421604b197e7792e453d3cb86428/Screenshot%202026-02-10%20215439.png)
+![Alt text](https://github.com/VictorGranado/SDL-3-New-Coordinates-Polar-visualizer/blob/6de5dd7ae96ffeeb19243b11919dc35f1c882328/Screenshot%202026-02-24%20201821.png)
+![Alt text](https://github.com/VictorGranado/SDL-3-New-Coordinates-Polar-visualizer/blob/6de5dd7ae96ffeeb19243b11919dc35f1c882328/Screenshot%202026-02-24%20201802.png)
 
 ---
 
