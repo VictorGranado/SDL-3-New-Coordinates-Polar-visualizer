@@ -1,7 +1,5 @@
 # SDL-3-New-Coordinates-Polar-visualizer
 
-# New Coordinates Visualizer — SDL 3 (Polar Coordinates)
-
 This project is an interactive Python application developed for a Self-Directed Learning (SDL) project covering **Chapter 3: New Coordinates** in Multivariable Calculus.  
 
 The goal of this tool is to build intuition for **polar coordinates and coordinate transformations** by allowing users to visualize curves, regions, and geometric quantities directly in the plane.
@@ -39,7 +37,7 @@ Convert points between:
 
 The position vector is displayed graphically to show how both coordinate systems describe the same point.
 
-📷 *Placeholder — Coordinate conversion example*
+![Alt text](https://github.com/VictorGranado/SDL-3-New-Coordinates-Polar-visualizer/blob/5978af7408d06580418b097e34fde8b0c0ea5011/Screenshot%202026-02-24%20201157.png)
 
 ---
 
@@ -59,7 +57,7 @@ Examples include:
 
 The curve is rendered in the Cartesian plane, demonstrating how polar equations map into standard \(x,y\) space.
 
-📷 *Placeholder — Polar curve example*
+![Alt text]https://github.com/VictorGranado/SDL-3-New-Coordinates-Polar-visualizer/blob/5978af7408d06580418b097e34fde8b0c0ea5011/Screenshot%202026-02-24%20201316.png)
 
 ---
 
@@ -84,7 +82,7 @@ The shaded region is displayed along with:
 
 This helps explain why the extra **\(r\)** factor appears in polar area integrals.
 
-📷 *Placeholder — Shaded polar region*
+![Alt text](https://github.com/VictorGranado/SDL-3-New-Coordinates-Polar-visualizer/blob/5978af7408d06580418b097e34fde8b0c0ea5011/Screenshot%202026-02-24%20201444.png)
 
 ---
 
@@ -98,7 +96,7 @@ L=\int_{\alpha}^{\beta}\sqrt{r(\theta)^2+\left(\frac{dr}{d\theta}\right)^2}\,d\t
 
 The program also compares results with a chord-length approximation in Cartesian coordinates, reinforcing the geometric meaning of arc length.
 
-📷 *Placeholder — Arc length visualization*
+![Alt text](https://github.com/VictorGranado/SDL-2-Curve-Transform-Curves-and-Parametric-Motion/blob/67a5fc092f2b421604b197e7792e453d3cb86428/Screenshot%202026-02-10%20215439.png)
 
 ---
 
